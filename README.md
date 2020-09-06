@@ -1,6 +1,8 @@
 # Color Channel Perturbation Attack
 A Stochastic Color Channel Based Attack to fool CNNs.
 
+<img src="CCP_Attack.png">
+
 ### CIFAR10
 This folder contains all the code related to Training and CCP attacks of CIFAR10 dataset. <br/>
 <b>CIFAR10/CIFAR10_over_ResNet56.ipynb - </b> This file contains the training of CIFAR10 over ResNet56 and Model evaluation of CCP attack under Fixed and Variable settings.<br/>
