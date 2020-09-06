@@ -1,7 +1,7 @@
 # Color Channel Perturbation Attack
 A Stochastic Color Channel Based Attack to fool CNNs.
 
-![Alt text](CCP_Attack.png?raw=true "Title")
+![alt text](https://github.com/jayendrakantipudi/Color-Channel-Perturbation-Attack/blob/master/CCP_ATTACK.png?raw=true)
 
 ### CIFAR10
 This folder contains all the code related to Training and CCP attacks of CIFAR10 dataset. <br/>
