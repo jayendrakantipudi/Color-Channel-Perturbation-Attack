@@ -1,4 +1,4 @@
-# Color-Channel_Perturbation-Attack
+# Color Channel Perturbation Attack
 A Stochastic Color Channel Based Attack to fool CNNs.
 
 ### CIFAR10
