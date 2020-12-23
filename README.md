@@ -22,3 +22,8 @@ This folder contains all the code related to Training and CCP attacks of TinyIma
 <b>TinyImagenet/TinyImagenet_over_ResNet101.ipynb - </b> This file contains the training of TinyImagenet over ResNet101 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
 <b>TinyImagenet/TinyImagenet_over_VGG16.ipynb - </b> This file contains the training of TinyImagenet over VGG16 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
 <b>TinyImagenet/TinyImagenet_over_DenseNet121.ipynb - </b> This file contains the training of TinyImagenet over DenseNet121 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
+
+
+## Publication
+J. Kantipudi, S. R. Dubey and S. Chakraborty, "Color Channel Perturbation Attacks for Fooling Convolutional Neural Networks and A Defense Against Such Attacks," in IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2020.3046167.
+https://ieeexplore.ieee.org/document/9300232
